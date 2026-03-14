@@ -1,4 +1,44 @@
-Hi!!
-Today we are learning Git and Github in IT Vedant!!
-<h1>CI/CD Pipeline Working 🚀</h1>
-This is a sample html code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Static Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            font-size: 18px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Static Page!</h1>
+        <p>This is a simple static website created with HTML and CSS.</p>
+        <p>Visit <a href="https://www.example.com" target="_blank">Example.com</a> for more info.</p>
+    </div>
+</body>
+</html>
